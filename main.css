@@ -1,0 +1,20 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+body {
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+header {
+    font-family: 'Encode Sans Expanded', sans-serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+}
+
+table {
+    font-family: 'Indie Flower', cursive;
+}
+body {
+    background: linear-gradient(to right, orchid, orange, orangered);
+}
